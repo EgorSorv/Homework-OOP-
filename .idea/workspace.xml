@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e67cc1-3a37-4cad-b49b-1735fb06d24e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw2/LaptopFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw2/PrintLaptopList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw2/SortedLaptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
