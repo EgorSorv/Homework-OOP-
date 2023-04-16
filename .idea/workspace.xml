@@ -62,11 +62,11 @@
 }]]></component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.hw.hw3.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.hw.hw2.Main" />
       <module name="Homework-OOP-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.hw.hw3.*" />
+          <option name="PATTERN" value="org.hw.hw2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
