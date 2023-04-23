@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e67cc1-3a37-4cad-b49b-1735fb06d24e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/ProductCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/ProductIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/BaseVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/ChocolateVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/DrinkVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/HotDrinkVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/WaterVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/HotDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/Water.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +53,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/egorv/IdeaProjects/OOP/sem3"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hw.hw3.Main" />
+      <module name="Homework-OOP-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hw.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.hw.hw1.ex" />
       <module name="Homework-OOP-" />
@@ -62,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ex" />
       </list>
     </recent_temporary>
