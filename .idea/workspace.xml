@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9e67cc1-3a37-4cad-b49b-1735fb06d24e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/ProductCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/ProductIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/BaseVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/ChocolateVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/DrinkVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/HotDrinkVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/machine/WaterVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/HotDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw/hw3/product/Water.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f9e67cc1-3a37-4cad-b49b-1735fb06d24e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/egorv/IdeaProjects/OOP/sem3"
+    "last_opened_file_path": "C:/Users/egorv/IdeaProjects/OOP/Homework-OOP-"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
